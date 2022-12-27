@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="14" failures="0" errors="0" time="11.305">
+  <testsuite name="Tweets Page" errors="0" failures="0" skipped="0" timestamp="2022-08-27T04:25:11" time="5.642" tests="1">
+    <testcase classname="Tweets Page renders correct title" name="Tweets Page renders correct title" time="0.086">
+    </testcase>
+  </testsuite>
+  <testsuite name="Tweets Page" errors="0" failures="0" skipped="0" timestamp="2022-08-27T04:25:17" time="1.001" tests="1">
+    <testcase classname="Tweets Page renders correct title" name="Tweets Page renders correct title" time="0.025">
+    </testcase>
+  </testsuite>
+  <testsuite name="App Page" errors="0" failures="0" skipped="0" timestamp="2022-08-27T04:25:11" time="7.501" tests="1">
+    <testcase classname="App Page renders correct header logo" name="App Page renders correct header logo" time="0.096">
+    </testcase>
+  </testsuite>
+  <testsuite name="Tweets Page" errors="0" failures="0" skipped="0" timestamp="2022-08-27T04:25:18" time="1.328" tests="1">
+    <testcase classname="Tweets Page renders correct title" name="Tweets Page renders correct title" time="0.045">
+    </testcase>
+  </testsuite>
+  <testsuite name="Home Page" errors="0" failures="0" skipped="0" timestamp="2022-08-27T04:25:19" time="0.561" tests="1">
+    <testcase classname="Home Page renders correct user&apos;s name" name="Home Page renders correct user&apos;s name" time="0.057">
+    </testcase>
+  </testsuite>
+  <testsuite name="Tweets Page" errors="0" failures="0" skipped="0" timestamp="2022-08-27T04:25:19" time="0.467" tests="1">
+    <testcase classname="Tweets Page renders correct title" name="Tweets Page renders correct title" time="0.018">
+    </testcase>
+  </testsuite>
+  <testsuite name="Header Page" errors="0" failures="0" skipped="0" timestamp="2022-08-27T04:25:19" time="0.453" tests="5">
+    <testcase classname="Header Page renders correct header logo" name="Header Page renders correct header logo" time="0.018">
+    </testcase>
+    <testcase classname="Header Page renders correct home tab" name="Header Page renders correct home tab" time="0.013">
+    </testcase>
+    <testcase classname="Header Page renders correct tweet tab" name="Header Page renders correct tweet tab" time="0.012">
+    </testcase>
+    <testcase classname="Header Page renders correct user tab" name="Header Page renders correct user tab" time="0.011">
+    </testcase>
+    <testcase classname="Header Page renders correct log-out tab" name="Header Page renders correct log-out tab" time="0.009">
+    </testcase>
+  </testsuite>
+  <testsuite name="Users Page" errors="0" failures="0" skipped="0" timestamp="2022-08-27T04:25:20" time="0.429" tests="1">
+    <testcase classname="Users Page renders correct title" name="Users Page renders correct title" time="0.024">
+    </testcase>
+  </testsuite>
+  <testsuite name="Error Page" errors="0" failures="0" skipped="0" timestamp="2022-08-27T04:25:20" time="0.409" tests="1">
+    <testcase classname="Error Page renders correct alt" name="Error Page renders correct alt" time="0.044">
+    </testcase>
+  </testsuite>
+  <testsuite name="Footer Page" errors="0" failures="0" skipped="0" timestamp="2022-08-27T04:25:20" time="0.355" tests="1">
+    <testcase classname="Footer Page renders correct text" name="Footer Page renders correct text" time="0.008">
+    </testcase>
+  </testsuite>
+</testsuites>
